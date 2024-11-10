@@ -92,5 +92,4 @@ To get this project up and running, follow these steps:
 This project exemplifies the power of TinyML in creating autonomous, decentralized, and resilient IoT systems. By leveraging Edge Impulse, TensorFlow Lite Micro, MQTT, and REST APIs, we enable the ESP32 to not only make intelligent decisions but also to integrate seamlessly with centralized platforms like Home Assistant and MongoDB Atlas for broader data management and automation.
 
 ---
-
-This README file provides clarity on the project’s purpose, tech stack, and setup instructions while also highlighting the significance of TinyML and the advantages of decentralizing home automation. Let me know if you'd like further details on any section!
+Final notes: the code provided have all the api keys and other credentials in it, feel free to use this until i destroy the instances.
